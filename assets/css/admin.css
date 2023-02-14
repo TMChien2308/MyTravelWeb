@@ -1,0 +1,65 @@
+.admin{
+
+}
+.admin-row{
+    width: 200px;
+    text-align: center;
+}
+.admin-img{
+    width: 100px;
+}
+.admin-name{
+    font-size: 2rem;
+}
+.admin-icon{
+    display: flex;
+
+}
+.admin-icon-item{
+    font-size: 1.4rem;
+    padding: 0 10px;
+}
+.icon-1{
+    margin: 0 13px;
+}
+.name{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fc9f1c;
+}
+.admin-logo{
+    width: 250px;
+}
+.d{
+    display: -webkit-box;
+    max-height: 8rem;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 5;
+    line-height: 1.6rem;
+}
+.a{
+    width: 100px;
+    height: 70px;
+}
+.s{
+    display: flex;
+}
+.menu a{
+    background: #f5f5f5;
+    border-bottom: 1px solid #ccc;
+}
+.menu a:hover{
+    background-color: #ccc;
+}
+.menu-admin{
+    background-color: #fc9f1c;
+    padding: 15px;
+    border-radius: 4px;
+}
+.menu-admin i{
+    margin-right: 5px;
+}
+
